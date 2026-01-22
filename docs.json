@@ -120,6 +120,10 @@
     }
   },
   "background": {
-    "decoration": "gradient"
+    "decoration": "gradient",
+    "color": {
+      "dark": "#2f353a",
+      "light": "#eeede8"
+    }
   }
 }
